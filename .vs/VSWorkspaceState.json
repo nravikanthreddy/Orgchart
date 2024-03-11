@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\amplify",
+    "\\amplify\\backend",
+    "\\amplify\\backend\\api",
+    "\\amplify\\backend\\api\\orgchart",
+    "\\amplify\\backend\\api\\orgchart\\resolvers",
     "\\public",
     "\\src"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\amplify\\backend\\api\\orgchart\\schema.graphql",
   "PreviewInSolutionExplorer": false
 }

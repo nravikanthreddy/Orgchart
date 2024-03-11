@@ -1,0 +1,14 @@
+{
+  "resourceName": "orgbucket",
+  "policyUUID": "157cd39b",
+  "bucketName": "orgchart68cd7b3221b64d2cb83e9ffeb6410150",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
